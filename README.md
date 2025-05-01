@@ -1,2 +1,22 @@
 # InfinityStamina
-一个基于Exiled的SCP：SL插件，实现了真·无限体力，不会显示体力条，请各位尽情使用吧！！！
+![Exiled](https://img.shields.io/badge/Exiled-8.0.0-blue)
+
+SCP: Secret Laboratory 服务器的无限体力插件，基于 Exiled 框架开发。
+
+## 功能
+- 永久禁用玩家体力消耗
+- 自动恢复体力至最大值
+- 可配置恢复间隔
+
+## 安装
+1. 将 `InfinityStamina.dll` 放入 `Exiled/Plugins` 目录
+2. 配置 `config.yml`：
+   ```yaml
+   infinity_stamina:
+     is_enabled: true
+     stamina_restore_interval: 0.1
+
+# 用 Visual Studio 打开 .sln 文件编译
+``` bash
+git clone https://github.com/whystars/InfinityStamina.git
+```
