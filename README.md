@@ -12,7 +12,7 @@ SCP: Secret Laboratory 服务器的无限体力插件，基于 Exiled 框架开�
 1. 将 `InfinityStamina.dll` 放入 `Exiled/Plugins` 目录
 2. 配置 `config.yml`：
 
-# 用 Visual Studio 打开 .sln 文件编译
+## 用 Visual Studio 打开 .sln 文件编译
 ``` bash
 git clone https://github.com/whystars/InfinityStamina.git
 ```
