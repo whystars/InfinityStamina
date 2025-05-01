@@ -11,10 +11,6 @@ SCP: Secret Laboratory 服务器的无限体力插件，基于 Exiled 框架开�
 ## 安装
 1. 将 `InfinityStamina.dll` 放入 `Exiled/Plugins` 目录
 2. 配置 `config.yml`：
-   ```yaml
-   infinity_stamina:
-     is_enabled: true
-     stamina_restore_interval: 0.1
 
 # 用 Visual Studio 打开 .sln 文件编译
 ``` bash
